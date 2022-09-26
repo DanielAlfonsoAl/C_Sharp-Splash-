@@ -1,0 +1,17 @@
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\bin\Debug\SPLASH.exe.config
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\bin\Debug\SPLASH.exe
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\bin\Debug\SPLASH.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.csproj.AssemblyReference.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.Form1.resources
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.Properties.Resources.resources
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.SPLASH.resources
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.csproj.GenerateResource.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.csproj.CoreCompileInputs.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.exe
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\bin\Debug\CircularProgressBar.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\bin\Debug\WinFormAnimation.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\bin\Debug\CircularProgressBar.xml
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.bienvenida.resources
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\SPLASH\SPLASH\obj\Debug\SPLASH.csproj.CopyComplete
